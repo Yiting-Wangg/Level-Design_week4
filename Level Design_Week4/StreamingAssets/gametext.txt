@@ -1,0 +1,6 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	this is a nice day for a run!	1	N	PlayerDialogueImage	randomsound1
+1	Player	Go!	2	Y	PlayerDialogueImageMove	randomsound2
+2	Player	Right is Left, Left is right!	3	Y	PlayerDialogueImageTired	
+3	Player	wow, that was hard!	4	N	PlayerDialogueImageTired	randomsound3	
+4	Player	Good Job!	-1	Y	PlayerDialogueImage	
